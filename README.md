@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelmonteiro10
-- 👀 I’m interested in Football and CSGO
+- 👀 I’m interested in Football and CS2
 - 🌱 I’m currently learning JAVASCRIPT, CSS, HTML
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: just follow my socials
